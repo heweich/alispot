@@ -15,8 +15,8 @@
     "SpotStrategy": "SpotAsPriceGo"
   },
   "ssr_server": {
-    "port": 33333,
-    "password": "----------------",
+    "port": 8888,
+    "password": "111111",
     "method": "aes-128-ctr",
     "protocol": "auth_sha1_v4",
     "protocol_param": "",
